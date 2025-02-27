@@ -1,5 +1,5 @@
 # My-First-Project
 
-Firs project, nothing to say more
+Example project
 
 any text in file
